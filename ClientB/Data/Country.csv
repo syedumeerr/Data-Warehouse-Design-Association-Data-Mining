@@ -1,0 +1,235 @@
+country_id,country_name,region
+C1,Afghanistan,Asia
+C2,Albania,Europe
+C3,Algeria,Africa
+C4,American Samoa,Oceania
+C5,Andorra,Europe
+C6,Angola,Africa
+C7,Anguilla,North America
+C8,Antigua and Barbuda,North America
+C9,Argentina,South America
+C10,Armenia,Asia
+C11,Aruba,North America
+C12,Australia,Oceania
+C13,Austria,Europe
+C14,Azerbaijan,Asia
+C15,Bahamas,North America
+C16,Bahrain,Asia
+C17,Bangladesh,Asia
+C18,Barbados,North America
+C19,Belarus,Europe
+C20,Belgium,Europe
+C21,Belize,North America
+C22,Benin,Africa
+C23,Bermuda,North America
+C24,Bhutan,Asia
+C25,Bolivia,South America
+C26,Bosnia and Herzegovina,Europe
+C27,Botswana,Africa
+C28,Brazil,South America
+C29,British Virgin Islands,North America
+C30,Brunei,Asia
+C31,Bulgaria,Europe
+C32,Burkina Faso,Africa
+C33,Burundi,Africa
+C34,Cambodia,Asia
+C35,Cameroon,Africa
+C36,Canada,North America
+C37,Cape Verde,Africa
+C38,Cayman Islands,North America
+C39,Central African Republic,Africa
+C40,Chad,Africa
+C41,Chile,South America
+C42,China,Asia
+C43,Colombia,South America
+C44,Comoros,Africa
+C45,Cook Islands,Oceania
+C46,Costa Rica,North America
+C47,Croatia,Europe
+C48,Cuba,North America
+C49,Curacao,North America
+C50,Cyprus,Europe
+C51,Czech Republic,Europe
+C52,Denmark,Europe
+C53,Djibouti,Africa
+C54,Dominica,North America
+C55,Dominican Republic,North America
+C56,Democratic Republic of Congo,Africa
+C57,Ecuador,South America
+C58,Egypt,Africa
+C59,El Salvador,North America
+C60,Equatorial Guinea,Africa
+C61,Eritrea,Africa
+C62,Estonia,Europe
+C63,Eswatini,Africa
+C64,Ethiopia,Africa
+C65,Falkland Islands,South America
+C66,Faroe Islands,Europe
+C67,Fiji,Oceania
+C68,Finland,Europe
+C69,France,Europe
+C70,French Guiana,South America
+C71,French Polynesia,Oceania
+C72,Gabon,Africa
+C73,Gambia,Africa
+C74,Georgia,Asia
+C75,Germany,Europe
+C76,Ghana,Africa
+C77,Gibraltar,Europe
+C78,Greece,Europe
+C79,Greenland,North America
+C80,Grenada,North America
+C81,Guadeloupe,North America
+C82,Guam,Oceania
+C83,Guatemala,North America
+C84,Guernsey,Europe
+C85,Guinea,Africa
+C86,Guinea-Bissau,Africa
+C87,Guyana,South America
+C88,Haiti,North America
+C89,Honduras,North America
+C90,Hong Kong,Asia
+C91,Hungary,Europe
+C92,Iceland,Europe
+C93,India,Asia
+C94,Indonesia,Asia
+C95,Iran,Asia
+C96,Iraq,Asia
+C97,Ireland,Europe
+C98,Isle of Man,Europe
+C99,Israel,Asia
+C100,Italy,Europe
+C101,Ivory Coast,Africa
+C102,Jamaica,North America
+C103,Japan,Asia
+C104,Jersey,Europe
+C105,Jordan,Asia
+C106,Kazakhstan,Asia
+C107,Kenya,Africa
+C108,Kiribati,Oceania
+C109,Kuwait,Asia
+C110,Kyrgyzstan,Asia
+C111,Laos,Asia
+C112,Latvia,Europe
+C113,Lebanon,Asia
+C114,Lesotho,Africa
+C115,Liberia,Africa
+C116,Libya,Africa
+C117,Liechtenstein,Europe
+C118,Lithuania,Europe
+C119,Luxembourg,Europe
+C120,Macau,Asia
+C121,Madagascar,Africa
+C122,Malawi,Africa
+C123,Malaysia,Asia
+C124,Maldives,Asia
+C125,Mali,Africa
+C126,Malta,Europe
+C127,Marshall Islands,Oceania
+C128,Martinique,North America
+C129,Mauritania,Africa
+C130,Mauritius,Africa
+C131,Mayotte,Africa
+C132,Mexico,North America
+C133,Micronesia,Oceania
+C134,Moldova,Europe
+C135,Monaco,Europe
+C136,Mongolia,Asia
+C137,Montenegro,Europe
+C138,Montserrat,North America
+C139,Morocco,Africa
+C140,Mozambique,Africa
+C141,Myanmar,Asia
+C142,Namibia,Africa
+C143,Nauru,Oceania
+C144,Nepal,Asia
+C145,Netherlands,Europe
+C146,New Caledonia,Oceania
+C147,New Zealand,Oceania
+C148,Nicaragua,North America
+C149,Niger,Africa
+C150,Nigeria,Africa
+C151,Niue,Oceania
+C152,North Korea,Asia
+C153,North Macedonia,Europe
+C154,Northern Mariana Islands,Oceania
+C155,Norway,Europe
+C156,Oman,Asia
+C157,Pakistan,Asia
+C158,Palau,Oceania
+C159,Palestine,Asia
+C160,Panama,North America
+C161,Papua New Guinea,Oceania
+C162,Paraguay,South America
+C163,Peru,South America
+C164,Philippines,Asia
+C165,Poland,Europe
+C166,Portugal,Europe
+C167,Puerto Rico,North America
+C168,Qatar,Asia
+C169,Congo,Africa
+C170,Reunion,Africa
+C171,Romania,Europe
+C172,Russia,Europe
+C173,Rwanda,Africa
+C174,Saint Barthelemy,North America
+C175,Saint Kitts and Nevis,North America
+C176,Saint Lucia,North America
+C177,Saint Martin,North America
+C178,Saint Pierre and Miquelon,North America
+C179,Saint Vincent and the Grenadines,North America
+C180,Samoa,Oceania
+C181,San Marino,Europe
+C182,Sao Tome and Principe,Africa
+C183,Saudi Arabia,Asia
+C184,Senegal,Africa
+C185,Serbia,Europe
+C186,Seychelles,Africa
+C187,Sierra Leone,Africa
+C188,Singapore,Asia
+C189,Sint Maarten,North America
+C190,Slovakia,Europe
+C191,Slovenia,Europe
+C192,Solomon Islands,Oceania
+C193,Somalia,Africa
+C194,South Africa,Africa
+C195,South Korea,Asia
+C196,South Sudan,Africa
+C197,Spain,Europe
+C198,Sri Lanka,Asia
+C199,Sudan,Africa
+C200,Suriname,South America
+C201,Sweden,Europe
+C202,Switzerland,Europe
+C203,Syria,Asia
+C204,Taiwan,Asia
+C205,Tajikistan,Asia
+C206,Tanzania,Africa
+C207,Thailand,Asia
+C208,Timor-Leste,Asia
+C209,Togo,Africa
+C210,Tokelau,Oceania
+C211,Tonga,Oceania
+C212,Trinidad and Tobago,North America
+C213,Tunisia,Africa
+C214,Turkey,Asia
+C215,Turkmenistan,Asia
+C216,Turks and Caicos Islands,North America
+C217,Tuvalu,Oceania
+C218,Uganda,Africa
+C219,Ukraine,Europe
+C220,United Arab Emirates,Asia
+C221,United Kingdom,Europe
+C222,United States,North America
+C223,United States Virgin Islands,North America
+C224,Uruguay,South America
+C225,Uzbekistan,Asia
+C226,Vanuatu,Oceania
+C227,Vatican City,Europe
+C228,Venezuela,South America
+C229,Vietnam,Asia
+C230,Wallis and Futuna,Oceania
+C231,Western Sahara,Africa
+C232,Yemen,Asia
+C233,Zambia,Africa
+C234,Zimbabwe,Africa
